@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38206" started-at="2019-11-03T15:53:18Z" finished-at="2019-11-03T15:53:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38206" started-at="2019-11-03T15:53:18Z" finished-at="2019-11-03T15:53:56Z">
+      <class name="com.discovery.homePageTestCases.PopularShow">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.discovery.homePageTestCases.PopularShow@436e852b]" name="setUp" is-config="true" duration-ms="15086" started-at="2019-11-03T15:53:18Z" finished-at="2019-11-03T15:53:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="teststart(java.lang.reflect.Method)[pri:0, instance:com.discovery.homePageTestCases.PopularShow@436e852b]" name="teststart" is-config="true" duration-ms="5" started-at="2019-11-03T15:53:33Z" finished-at="2019-11-03T15:53:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.discovery.homePageTestCases.PopularShow.popularshow() throws java.lang.InterruptedException,java.awt.AWTException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teststart -->
+        <test-method status="PASS" signature="popularshow()[pri:0, instance:com.discovery.homePageTestCases.PopularShow@436e852b]" name="popularshow" duration-ms="22243" started-at="2019-11-03T15:53:33Z" finished-at="2019-11-03T15:53:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popularshow -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestResult)[pri:0, instance:com.discovery.homePageTestCases.PopularShow@436e852b]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-11-03T15:53:55Z" finished-at="2019-11-03T15:53:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=popularshow status=SUCCESS method=PopularShow.popularshow()[pri:0, instance:com.discovery.homePageTestCases.PopularShow@436e852b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.discovery.homePageTestCases.PopularShow@436e852b]" name="teardown" is-config="true" duration-ms="850" started-at="2019-11-03T15:53:55Z" finished-at="2019-11-03T15:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.discovery.homePageTestCases.PopularShow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

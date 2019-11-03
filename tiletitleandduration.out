@@ -1,0 +1,23 @@
+2019-11-03 21:23:21 INFO  BaseDriver:70 - selected chrome browser
+2019-11-03 21:23:21 INFO  BaseDriver:49 - fetched url
+2019-11-03 21:23:32 INFO  BaseDriver:51 - window maximized
+2019-11-03 21:23:33 INFO  BaseDriver:86 - waited till page loaded
+2019-11-03 21:23:33 INFO  BaseDriver:50 - scrolling page down
+2019-11-03 21:23:34 INFO  BaseDriver:64 - Clicking 0 indexed popular shows tile
+2019-11-03 21:23:35 INFO  BaseDriver:64 - Clicking 1 indexed popular shows tile
+2019-11-03 21:23:36 INFO  BaseDriver:64 - Clicking 2 indexed popular shows tile
+2019-11-03 21:23:37 INFO  BaseDriver:64 - Clicking 3 indexed popular shows tile
+2019-11-03 21:23:38 INFO  BaseDriver:64 - Clicking 4 indexed popular shows tile
+2019-11-03 21:23:39 INFO  BaseDriver:64 - Clicking 5 indexed popular shows tile
+2019-11-03 21:23:40 INFO  BaseDriver:64 - Clicking 6 indexed popular shows tile
+2019-11-03 21:23:41 INFO  BaseDriver:64 - Clicking 7 indexed popular shows tile
+2019-11-03 21:23:42 INFO  BaseDriver:64 - Clicking 8 indexed popular shows tile
+2019-11-03 21:23:43 INFO  BaseDriver:64 - Clicking 9 indexed popular shows tile
+2019-11-03 21:23:45 INFO  BaseDriver:64 - Clicking 10 indexed popular shows tile
+2019-11-03 21:23:46 INFO  BaseDriver:64 - Clicking 11 indexed popular shows tile
+2019-11-03 21:23:47 INFO  BaseDriver:64 - Clicking 12 indexed popular shows tile
+2019-11-03 21:23:48 INFO  BaseDriver:64 - Clicking 13 indexed popular shows tile
+2019-11-03 21:23:49 INFO  BaseDriver:64 - Clicking 14 indexed popular shows tile
+2019-11-03 21:23:49 INFO  BaseDriver:70 - clicked explore the show button
+2019-11-03 21:23:54 INFO  BaseDriver:77 - clicked on show more button
+2019-11-03 21:23:56 INFO  BaseDriver:91 - closing browser
